@@ -1,5 +1,6 @@
 # Mariana Lungu
 
+I’m Mariana Lungu, Founder of Archetype Core.
 I design and build audit-ready AI systems and data architectures for environments where reliability, traceability, and accountability are not optional.
 
 ---
